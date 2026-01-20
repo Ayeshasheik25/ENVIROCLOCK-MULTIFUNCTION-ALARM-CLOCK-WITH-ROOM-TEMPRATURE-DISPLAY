@@ -13,7 +13,7 @@ This project is fully modular, hardware-tested, and implemented using **Keil uVi
 
 - **Temperature Monitoring**
   - LM35 sensor connected through ADC
-  - Displays real-time room temperature in °C
+  - Displays room temperature in °C
 
 - **Alarm Functionality**
   - Set alarm (HH:MM) using keypad
